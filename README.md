@@ -1,19 +1,25 @@
 <h1 align="center">Aparna Singh</h1>
+
 <p align="center">
-Data Science Student | Data Analytics | Visualization | Gen AI | Full-Stack Development
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Data+Science+Student;Data+Analytics+and+Visualization;Gen+AI+and+Full+Stack+Development&center=true&width=500&height=40">
 </p>
 
 <p align="center">
-<a href="https://github.com/TinkerTechie">GitHub</a> •
-<a href="https://www.linkedin.com/in/aparna-singh15147a324/">LinkedIn</a>
+  <a href="https://github.com/TinkerTechie">
+    <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github">
+  </a>
+  <a href="https://www.linkedin.com/in/aparna-singh15147a324/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
+  </a>
 </p>
 
 <hr>
 
 <h2>About Me</h2>
+
 <p>
-I am a B.Tech Data Science student focused on analyzing real-world datasets to uncover patterns, trends, and actionable insights. 
-My work combines data analytics, visualization, and system building, with growing experience in Gen AI and full-stack development.
+I am a Data Science student focused on analyzing real-world datasets to uncover patterns, trends, and actionable insights.
+I work across data analytics, visualization, Gen AI, and full-stack development to build structured, data-driven solutions.
 </p>
 
 <hr>
@@ -23,18 +29,20 @@ My work combines data analytics, visualization, and system building, with growin
 <h3>Crime Pattern Analysis in Indian Cities</h3>
 
 <p>
-Comprehensive data analysis of 40,000+ crime records across 29 Indian cities to identify geographic, demographic, and temporal patterns.
+Analysis of 40,000+ crime records across 29 Indian cities to identify geographic, demographic, and temporal patterns.
 </p>
 
 <ul>
 <li>Identified high-risk regions with concentrated crime activity</li>
-<li>Analyzed victim demographics, highlighting over 55% female victimization in key domains</li>
-<li>Discovered strong night-time crime concentration trends</li>
-<li>Evaluated case resolution efficiency across cities</li>
+<li>Analyzed over 55 percent female victimization trends</li>
+<li>Detected strong night-time crime concentration patterns</li>
+<li>Evaluated case resolution efficiency</li>
 </ul>
 
 <p>
-<a href="https://github.com/IndianCriminalAnalytics/SectionC_Group4_CrimeTrends">View Project Repository</a>
+<a href="https://github.com/IndianCriminalAnalytics/SectionC_Group4_CrimeTrends">
+  <img src="https://img.shields.io/badge/View-Project-green?style=for-the-badge">
+</a>
 </p>
 
 <hr>
@@ -44,38 +52,39 @@ Comprehensive data analysis of 40,000+ crime records across 29 Indian cities to 
 <h3>AI Job Market Analysis</h3>
 
 <p>
-Data-driven analysis of 30,000+ job records to study the impact of AI on job growth, salary trends, and automation risk.
+Analysis of 30,000+ job records to study AI-driven job growth, salary trends, and automation risk.
 </p>
 
 <ul>
-<li>Built Tableau dashboards to visualize job demand and salary distribution</li>
-<li>Analyzed industry-wise growth patterns and role transitions</li>
-<li>Identified emerging opportunities in AI-driven job markets</li>
+<li>Built Tableau dashboards for job demand and salary trends</li>
+<li>Analyzed industry-wise growth patterns</li>
+<li>Identified emerging AI job opportunities</li>
 </ul>
 
 <p>
-<a href="https://github.com/Saumya-Mishra-536/SectionC_Group2_AI-Job-Market-Analysis">View Project Repository</a>
+<a href="https://github.com/Saumya-Mishra-536/SectionC_Group2_AI-Job-Market-Analysis">
+  <img src="https://img.shields.io/badge/View-Project-blue?style=for-the-badge">
+</a>
 </p>
 
 <hr>
 
 <h2>Technical Skills</h2>
 
-<ul>
-<li>Languages: Python, SQL, JavaScript</li>
-<li>Data Tools: Google Sheets, Excel, Tableau</li>
-<li>Libraries: Pandas, NumPy, Matplotlib</li>
-<li>Other Tools: Git, GitHub, Postman</li>
-</ul>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,sql,js,git,github,nodejs">
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Tableau-orange?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Excel-green?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Pandas-blue?style=for-the-badge">
+</p>
 
 <hr>
 
-<h2>Focus Areas</h2>
+<h2>GitHub Stats</h2>
 
-<ul>
-<li>Data Cleaning and Preparation</li>
-<li>Exploratory Data Analysis and Pattern Identification</li>
-<li>Dashboard Design and Visualization</li>
-<li>Insight Generation for decision-making</li>
-<li>Building data-driven and AI-powered applications</li>
-</ul>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TinkerTechie&show_icons=true&theme=dark">
+</p>
