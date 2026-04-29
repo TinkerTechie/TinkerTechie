@@ -82,7 +82,11 @@ Analysis of 30,000+ job records to study AI-driven job growth, salary trends, an
 </p>
 
 <hr>
-
+<p align="center">
+  <a href="https://holopin.io/@tinkertechie">
+    <img src="https://holopin.me/tinkertechie" alt="Holopin Badges">
+  </a>
+</p>
 <h2>GitHub Stats</h2>
 
 <p align="center">
