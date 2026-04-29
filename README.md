@@ -1,79 +1,69 @@
-## Hi there 👋
+<h1 align="center">Aparna Singh</h1>
+<p align="center">
+Data Science Student | Data Analytics | Visualization
+</p>
 
-# Aparna Singh
+<hr>
 
-B.Tech Data Science Student at Newton School of Technology
-Interested in Data Analytics, Visualization, and Insight Generation
+<h2>About Me</h2>
+<p>
+I am a B.Tech Data Science student focused on analyzing data to uncover patterns and insights. 
+I enjoy working on real-world datasets and building structured analytical reports and dashboards.
+</p>
 
----
+<hr>
 
-## About Me
+<h2>Featured Project</h2>
 
-* Focused on analyzing data to extract meaningful insights
-* Strong in structured problem-solving and analytical thinking
-* Experience with Google Sheets, Tableau, and Python
-* Comfortable working on team-based data projects
+<h3>Crime Pattern Analysis in Indian Cities</h3>
 
----
+<p>
+Analyzed 40,000+ crime records across 29 Indian cities to identify geographic, demographic, and temporal patterns.
+</p>
 
-## Featured Project: Crime Pattern Analysis in Indian Cities
+<ul>
+<li>Identified high-risk cities with concentrated crime rates</li>
+<li>Observed 55%+ female victimization across major crime domains</li>
+<li>Detected strong night-time crime trends</li>
+<li>Analyzed case resolution efficiency</li>
+</ul>
 
-An end-to-end Data Visualization and Analytics project analyzing 40,000+ crime records across 29 Indian cities.
+<p>
+<a href="https://github.com/YOUR_USERNAME/YOUR_REPO">View Project</a>
+</p>
 
-### Key Analysis Areas
+<hr>
 
-* Geographic Analysis: Crime distribution across cities
-* Temporal Analysis: Crime trends by time slots and days
-* Demographic Analysis: Victim gender distribution
-* Crime Domain Analysis: Types of crimes and patterns
-* Efficiency Analysis: Case resolution time
+<h2>Other Projects</h2>
 
-### Key Insights
+<h3>AI Job Market Analysis</h3>
 
-* Identified high-risk cities with concentrated crime rates
-* Found over 55 percent female victims across major crime categories
-* Detected strong night-time crime concentration patterns
-* Observed variation in case resolution efficiency across regions
+<ul>
+<li>Analyzed 30,000+ job records</li>
+<li>Built Tableau dashboards</li>
+<li>Studied AI impact on job growth</li>
+</ul>
 
-### Project Link
+<p>
+<a href="https://github.com/YOUR_USERNAME/YOUR_REPO">View Project</a>
+</p>
 
-[View Project Repository](https://github.com/YOUR_USERNAME/REPO_NAME)
+<hr>
 
----
+<h2>Skills</h2>
 
-## Other Projects
+<ul>
+<li>Python, SQL, JavaScript</li>
+<li>Google Sheets, Excel, Tableau</li>
+<li>Pandas, NumPy, Matplotlib</li>
+<li>Git, GitHub, Postman</li>
+</ul>
 
-### AI Job Market Analysis
+<hr>
 
-* Analyzed 30,000+ job records
-* Built Tableau dashboards for job growth and salary trends
-* Studied automation risk and AI impact on employment
+<h2>Contact</h2>
 
-[View Project Repository](https://github.com/YOUR_USERNAME/REPO_NAME)
+<p>Email: aparna.singh2024@nst.rishihood.edu.in</p>
+<p>LinkedIn: https://linkedin.com/in/YOUR_USERNAME</p>
+<p>GitHub: https://github.com/YOUR_USERNAME</p>
 
----
-
-## Skills
-
-Languages: Python, SQL, JavaScript
-Data Tools: Google Sheets, Excel, Tableau
-Libraries: Pandas, NumPy, Matplotlib
-Other Tools: Git, GitHub, Postman
-
----
-
-## What I Focus On
-
-* Data Cleaning and Preparation
-* Pivot Table Analysis
-* Percentage and Trend Analysis
-* Dashboard Design
-* Converting data into structured insights
-
----
-
-## Contact
-
-Email: [aparna.singh2024@nst.rishihood.edu.in](mailto:aparna.singh2024@nst.rishihood.edu.in)
-LinkedIn: https://linkedin.com/in/YOUR_USERNAME
-GitHub: https://github.com/YOUR_USERNAME
