@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="700" viewBox="0 0 1200 700">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0D1117"/>
+      <stop offset="100%" stop-color="#161B22"/>
+    </linearGradient>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="3" result="b"/>
+      <feMerge>
+        <feMergeNode in="b"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <rect width="1200" height="700" rx="18" fill="url(#bg)"/>
+  <rect width="1200" height="48" rx="18" fill="#161B22"/>
+  <line x1="0" y1="48" x2="1200" y2="48" stroke="#30363D"/>
+
+  <circle cx="30" cy="24" r="7" fill="#FF5F56"/>
+  <circle cx="55" cy="24" r="7" fill="#FFBD2E"/>
+  <circle cx="80" cy="24" r="7" fill="#27C93F"/>
+
+  <text x="1120" y="30" text-anchor="end"
+        fill="#8B949E"
+        font-family="monospace"
+        font-size="16">terminal</text>
+
+  <text x="55" y="90"
+        fill="#3FB950"
+        font-family="monospace"
+        font-size="20">visitor@github:~$ whoami</text>
+
+  <text x="55" y="135"
+        fill="#F0F6FC"
+        font-family="monospace"
+        font-size="17">Name............. Aparna Singh</text>
+
+  <text x="55" y="165"
+        fill="#F0F6FC"
+        font-family="monospace"
+        font-size="17">Role............. AI Engineer</text>
+
+  <text x="55" y="195"
+        fill="#F0F6FC"
+        font-family="monospace"
+        font-size="17">Focus............ Multi-Agent Systems</text>
+
+  <text x="55" y="225"
+        fill="#F0F6FC"
+        font-family="monospace"
+        font-size="17">Interests........ RAG • AI Agents • Full-Stack • Data Science</text>
+
+  <text x="55" y="280"
+        fill="#3FB950"
+        font-family="monospace"
+        font-size="20">visitor@github:~$ stack</text>
+
+  <text x="55" y="325"
+        fill="#58A6FF"
+        font-family="monospace"
+        font-size="17"
+        filter="url(#glow)">AI</text>
+
+  <text x="170" y="325" fill="#F0F6FC" font-family="monospace" font-size="17">
+LangGraph • LangChain • HuggingFace • Ollama
+  </text>
+
+  <text x="55" y="355" fill="#58A6FF" font-family="monospace" font-size="17">Backend</text>
+  <text x="170" y="355" fill="#F0F6FC" font-family="monospace" font-size="17">
+FastAPI • Node.js • Express
+  </text>
+
+  <text x="55" y="385" fill="#58A6FF" font-family="monospace" font-size="17">Frontend</text>
+  <text x="170" y="385" fill="#F0F6FC" font-family="monospace" font-size="17">
+React • Next.js • Tailwind CSS
+  </text>
+
+  <text x="55" y="415" fill="#58A6FF" font-family="monospace" font-size="17">Database</text>
+  <text x="170" y="415" fill="#F0F6FC" font-family="monospace" font-size="17">
+PostgreSQL • MongoDB • Neo4j • Qdrant
+  </text>
+
+  <text x="55" y="475"
+        fill="#3FB950"
+        font-family="monospace"
+        font-size="20">visitor@github:~$ ls projects</text>
+
+  <text x="75" y="520" fill="#F0F6FC" font-family="monospace" font-size="17">📁 Argus</text>
+  <text x="75" y="550" fill="#F0F6FC" font-family="monospace" font-size="17">📁 Macro-Forensic Alert System</text>
+  <text x="75" y="580" fill="#F0F6FC" font-family="monospace" font-size="17">📁 Foresight Finance</text>
+  <text x="75" y="610" fill="#F0F6FC" font-family="monospace" font-size="17">📁 Hospital Management System</text>
+
+  <text x="55" y="665"
+        fill="#3FB950"
+        font-family="monospace"
+        font-size="20">visitor@github:~$</text>
+
+  <rect x="245" y="647" width="10" height="24" fill="#58A6FF">
+    <animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/>
+  </rect>
+</svg>
