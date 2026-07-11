@@ -1,7 +1,8 @@
 # Hi 👋 I'm Aparna Singh
 
-AI Engineer • Data Science • Economics • Building Multi-Agent Systems
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=AI+Engineer;Building+Autonomous+Agents;Quant+Research;Backend+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=AI+Engineer;Data+Science+Enthusiast;Building+Multi-Agent+AI+Systems;Full-Stack+Developer&center=true&width=550&height=50)](https://git.io/typing-svg)
+
+
 Currently building:
 - Argus
 - Macro Forensic Alert System
